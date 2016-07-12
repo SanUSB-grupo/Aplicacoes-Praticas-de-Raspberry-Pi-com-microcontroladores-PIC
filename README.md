@@ -1,8 +1,6 @@
-# ApostilaRaspberry_6.4 {#apostilaraspberry-6-4}
+# Aplicações Práticas de Raspberry Pi com microcontroladores PIC
 
-**Aplicações Práticas de Raspberry Pi com microcontroladores PIC**
-
-_Aprenda de forma simples a gravação online de microcontroladores via Raspberry Pi_
+Aprenda de forma simples a gravação online de microcontroladores via Raspberry Pi
 
 ![PicRPI](assets/picrpi.jpeg)
 
