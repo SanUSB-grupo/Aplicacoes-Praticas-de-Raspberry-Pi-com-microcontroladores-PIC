@@ -1,4 +1,5 @@
 # Summary
 
-* [ApostilaRaspberry_6.4](README.md)
-* [ Minibian (MINImal raspBIAN)](minibian_minimal_raspbian.md)
+* [Aplicações Práticas de Raspberry Pi com microcontroladores PIC](README.md)
+* [Minibian (MINImal raspBIAN)](minibian_minimal_raspbian.md)
+
