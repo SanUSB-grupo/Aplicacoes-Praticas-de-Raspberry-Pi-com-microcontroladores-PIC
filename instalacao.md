@@ -4,10 +4,10 @@
 
 Para começar as práticas com o Raspberry Pi, segue uma lista do material necessário.
 
- * Raspberry Pi (modelo B+, 2, 3, ou outro que contenha 4 USB e 1 Ethernet)
- * Fonte de Alimentação: 5 V / com mínimo de 1500 mA
- * Cartão SD ou Micro SD (mínimo de 4GB)
- * Imagem do Raspbian obtido a partir do site do [Raspberry Fondation](https://www.raspberrypi.org/downloads/)
+ * Raspberry Pi (modelo B+, 2, 3, ou outro que contenha 4 USB e 1 Ethernet);
+ * Fonte de Alimentação: 5 V / com mínimo de 1500 mA;
+ * Cartão SD ou Micro SD (mínimo de 4GB);
+ * Imagem do Raspbian obtido a partir do site do [Raspberry Fondation](https://www.raspberrypi.org/downloads/).
 
 ## Instalação do software
 
