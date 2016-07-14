@@ -11,6 +11,7 @@
     border:1px solid #a6ca8a;
 }
 .warning {
+    padding: 1em;
     background: #fff8c4;
     /*background:#fff8c4 url('images/warning.png') no-repeat 10px 50%;*/
     border:1px solid #f2c779;
