@@ -9,4 +9,6 @@
      * [3.1.1 Alteração do sistema de arquivos do SD Card para FAT ou FAT32 padrão](3.1.1 Alteração do sistema de arquivos do SD Card para FAT ou FAT32 padrão.md)
      * [3.1.2 Formatação do SD Card](3.1.2 Formatação do SD Card.md)
    * [3.2 Transferência do Sistema Operacional para o cartão](3.2 Transferência do Sistema Operacional para o cartão.md)
- * [4. Minibian (**MINI**mal rasp**BIAN**)](4. minibian_minimal_raspbian.md)
+   * [3.3 Instalação rápida dos programas iniciais necessários](3.3 Instalação rápida dos programas iniciais necessários.md)
+ * [4. Backup](4. Backup.md)
+ * [5. Minibian (**MINI**mal rasp**BIAN**)](4. Minibian (MINImal raspBIAN).md)
