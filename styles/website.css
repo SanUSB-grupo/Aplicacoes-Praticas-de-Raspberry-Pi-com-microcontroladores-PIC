@@ -1,7 +1,7 @@
 /* CSS for website */
 
 .error {
-    background: 
+    background: #ffecec;
     /*background:#ffecec url('images/error.png') no-repeat 10px 50%;*/
     border:1px solid #f5aca6;
 }
